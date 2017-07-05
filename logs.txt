@@ -1,0 +1,23 @@
+commit da08ed5ce30efa62165d273d0c5e4d3a104bc13d
+Author: Hassil <hassilpm94@gmail.com>
+Date:   Tue Jul 4 17:26:19 2017 -0600
+
+    modificando el footer
+
+commit 37ecbe0b04dcadd51ba96505e29b69acfd0a0135
+Author: Hassil <hassilpm94@gmail.com>
+Date:   Tue Jul 4 17:21:55 2017 -0600
+
+    Se agrego descripcion e imagen
+
+commit 9f530a171c745d786935dfa642f4f40f81d1140d
+Author: Hassil <hassilpm94@gmail.com>
+Date:   Tue Jul 4 17:17:00 2017 -0600
+
+    se agrego nombre del usuario
+
+commit e2796d5f7a0ad2c4a8021d5e14f44929d2c3e366
+Author: Hassil <hassilpm94@gmail.com>
+Date:   Tue Jul 4 17:08:27 2017 -0600
+
+    conociendo git
